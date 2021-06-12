@@ -1,0 +1,4 @@
+?? - Untracked files
+A - Files added to stage
+M - Modified files
+D - Deleted files
